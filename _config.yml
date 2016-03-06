@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3947368
+color:
+  saturation: 0.9994629
+  lightness: 0.5804256
+  brandStrength: 1
+  rhythmicContrast: 0.8651987
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: 'howdoyousolveaproblemlikemanila '
